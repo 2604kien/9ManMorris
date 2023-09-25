@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FIT3077-project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FIT3077_project_jar</output-path>
+    <root id="archive" name="FIT3077-project.jar">
+      <element id="module-output" name="FIT3077-project" />
+    </root>
+  </artifact>
+</component>
